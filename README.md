@@ -10,7 +10,7 @@ My name is Josiah Ryan.
 </div>
 
 I have experience in:
-- python
+- Python
 - C++
 - C#
 - Java
