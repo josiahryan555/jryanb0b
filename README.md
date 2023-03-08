@@ -8,3 +8,21 @@ My name is Josiah Ryan.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+I have experience in:
+- python
+- C++
+- C#
+- Java
+- Ada
+- Clojure
+- Ruby
+- C
+- Assembly Language
+- html
+- CSS
+- SCSS
+- Javascript
+- Typescript
+- React
+- Angular
