@@ -9,20 +9,20 @@ My name is Josiah Ryan. Check out my [website](https://jryanb0b.github.io/my-web
 
 <br/> <br/>
 
-I have experience in:
+I have experience using:
 - Python
 - C++
 - C#
+- C
 - Java
 - Ada
 - Clojure
 - Ruby
-- C
 - Assembly Language
 - html
 - CSS
 - SCSS
 - Javascript
 - Typescript
-- React
+- React and React Native
 - Angular
