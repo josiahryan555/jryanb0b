@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Josiah Ryan. Check out my [website](https://jryanb0b.github.io/my-website/)!
+My name is Josiah Ryan. Welcome to my github!
 
 <!-- taken from a github profile guide: https://www.sitepoint.com/github-profile-readme/ -->
 <div align="center">
